@@ -1,0 +1,125 @@
+[24-Jun-2019 23:52:51 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[24-Jun-2019 23:52:51 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[24-Jun-2019 23:52:51 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[24-Jun-2019 23:52:51 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[24-Jun-2019 23:53:01 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[24-Jun-2019 23:53:01 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:03 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:03 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:03 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:03 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:04 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:04 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:05 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:05 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:05 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:05 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:06 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:06 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:06 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:06 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:07 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:07 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:09 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:09 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:11 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:11 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:11 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:11 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:12 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:12 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:12 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:12 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:13 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:13 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:16 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:18 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:19 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:19 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:19 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:19 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:20 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:20 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:20 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:20 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:21 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:21 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:22 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:22 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:22 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:23 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:23 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:23 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:23 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:24 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:24 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:29 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:29 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:36 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:36 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:39 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[25-Jun-2019 02:14:39 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[25-Jun-2019 02:14:39 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[25-Jun-2019 02:14:48 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 7
+[25-Jun-2019 02:14:48 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 8
+[03-Jul-2019 03:35:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 10
+[03-Jul-2019 03:35:28 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/smamtasc/daftar.smam1ta.sch.id/koneksi/cek_login.php on line 12
+[02-Dec-2019 13:37:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[02-Dec-2019 23:36:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Dec-2019 12:14:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Dec-2019 12:14:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Dec-2019 12:14:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/smamtasc/public_html/login/koneksi/cek_login.php on line 7
+[07-Dec-2019 12:14:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home2/smamtasc/public_html/login/koneksi/cek_login.php on line 8
+[07-Dec-2019 12:14:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/smamtasc/public_html/login/koneksi/cek_login.php on line 10
+[07-Dec-2019 12:14:55 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/smamtasc/public_html/login/koneksi/cek_login.php on line 12
+[13-Dec-2019 02:54:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[23-Dec-2019 04:32:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 01:54:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 02:00:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 03:00:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 03:38:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 03:38:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 03:40:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[26-Dec-2019 03:41:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[27-Dec-2019 00:06:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Jan-2020 06:55:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Jan-2020 10:09:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Jan-2020 10:09:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[07-Jan-2020 10:51:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[08-Jan-2020 10:40:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[08-Jan-2020 10:40:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[14-Jan-2020 06:11:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[14-Jan-2020 06:13:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[14-Jan-2020 06:14:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[14-Jan-2020 06:15:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[20-Jan-2020 00:41:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[21-Jan-2020 00:52:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[21-Jan-2020 00:53:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[22-Jan-2020 00:40:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[22-Jan-2020 00:40:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[23-Jan-2020 01:27:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[23-Jan-2020 07:11:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[27-Jan-2020 04:11:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[01-Feb-2020 04:30:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[01-Feb-2020 16:45:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13
+[04-Feb-2020 13:03:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home2/smamtasc/public_html/login/koneksi/koneksi.php on line 13

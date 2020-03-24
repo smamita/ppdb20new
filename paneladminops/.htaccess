@@ -1,0 +1,42 @@
+<IfModule mod_rewrite.c>
+AddHandler application/x-httpd-ea-php56 .php .php5 .phtml
+RewriteEngine on
+
+RewriteRule ^pendaftaran\.html$ index.php [L]
+RewriteRule ^login-admin\.html$ index.php [L]
+RewriteRule ^identitas\.html$ modul/identitas.php [L]
+RewriteRule ^pdf-formulir-1\.html$ pdf_formulir_calon_pendaftar.php [L]
+RewriteRule ^cetak-formulir\.html$ cetak.php [L]
+RewriteRule ^alur-pendaftaran\.html$ modul/alur-pendaftaran.php [L]
+RewriteRule ^logout\.html$ koneksi/logout.php [L]
+RewriteRule ^panduan\.html$ modul/panduan.php [L]
+RewriteRule ^du\.html$ modul/du.php [L]
+
+RewriteRule ^list\.html$ modul/list.php [L]
+RewriteRule ^approve\.html$ modul/approve.php [L]
+RewriteRule ^user\.html$ modul/user.php [L]
+RewriteRule ^cancel\.html$ modul/cancel.php [L]
+RewriteRule ^buka\.html$ modul/buka.php [L]
+RewriteRule ^duaksi\.html$ modul/duaksi.php [L]
+RewriteRule ^ducancel\.html$ modul/ducancel.php [L]
+RewriteRule ^sekolah\.html$ modul/sekolah.php [L]
+RewriteRule ^broadcast\.html$ modul/broadcast.php [L]
+
+
+RewriteRule ^identitas\.html$ modul/identitas.php [L]
+RewriteRule ^verifikasi\.html$ modul/verifikasi.php [L]
+RewriteRule ^up_sekolah\.html$ modul/update_sekolah.php [L]
+
+
+RewriteRule ^data-umum-edit\.html$ main.php?menu=edit_data_umum [L]
+RewriteRule ^data-diri-edit\.html$ main.php?menu=edit_data_diri [L]
+RewriteRule ^data-tempat-tinggal-edit\.html$ main.php?menu=edit_data_tempat_tinggal [L]
+
+
+RewriteRule ^master-tgl-raport\.html$ main.php?mod=master_tgl_raport [L]
+RewriteRule ^mastertgl-aksi-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1 [L]
+RewriteRule ^mastertgl-raport-(.*)-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1&urut=$2 [L]
+RewriteRule ^mastertglraport-(.*)-(.*)-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1&urut=$2&konfirm=$3 [L]
+
+Options All -Indexes
+</IfModule>

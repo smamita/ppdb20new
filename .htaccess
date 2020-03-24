@@ -1,0 +1,35 @@
+
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php56 .php .php5 .phtml
+  RewriteEngine on
+
+RewriteRule ^pendaftaran\.html$ index.php [L]
+RewriteRule ^login\.html$ modul/login.php [L]
+RewriteRule ^alur\.html$ modul/alur.php [L]
+RewriteRule ^formulir\.html$ modul/formulir.php [L]
+RewriteRule ^identitas\.html$ modul/identitas.php [L]
+RewriteRule ^cetak-ulang\.html$ modul/cetak-ulang.php [L]
+RewriteRule ^alur-pendaftaran\.html$ modul/alur-pendaftaran.php [L]
+RewriteRule ^logout\.html$ koneksi/logout.php [L]
+RewriteRule ^cek-login\.html$ koneksi/cek_login.php [L]
+RewriteRule ^panduan\.html$ modul/panduan.php [L]
+RewriteRule ^sekolah\.html$ modul/sekolah.php [L]
+RewriteRule ^broadcast\.html$ modul/broadcast.php [L]
+
+
+RewriteRule ^data-umum-edit\.html$ main.php?menu=edit_data_umum [L]
+RewriteRule ^data-diri-edit\.html$ main.php?menu=edit_data_diri [L]
+RewriteRule ^data-tempat-tinggal-edit\.html$ main.php?menu=edit_data_tempat_tinggal [L]
+
+
+RewriteRule ^master-tgl-raport\.html$ main.php?mod=master_tgl_raport [L]
+RewriteRule ^mastertgl-aksi-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1 [L]
+RewriteRule ^mastertgl-raport-(.*)-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1&urut=$2 [L]
+RewriteRule ^mastertglraport-(.*)-(.*)-(.*)\.html$ main.php?mod=master_tgl_raport&aksi=$1&urut=$2&konfirm=$3 [L]
+
+Options All -Indexes
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

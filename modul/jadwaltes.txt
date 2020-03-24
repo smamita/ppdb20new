@@ -1,0 +1,51 @@
+<div class="bootstrap-select fm-cmp-mg">
+                                        <select class="selectpicker" id="select" name="id_jadwal" required>
+                                        
+                                            <?php
+                                                    include "../koneksi/koneksi.php";                                              
+                                                    date_default_timezone_set('asia/jakarta');
+                                                    $date=date("Ymd");
+                                                    $th1="20190126";                                                                                              
+                                                    $th2="20190223";                                                                                              
+                                                    $th3="20190330";                                                                                              
+                                                    $th4="20190427";                                                                                              
+                                                    $th5="20190525";                                                                                              
+
+                                                    if ($date <= $th1) {
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='1' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    } elseif ($date <= $th2) {
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='2' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    } elseif ($date <= $th3) {
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='3' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    }elseif ($date <= $th4) {
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='4' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    }elseif ($date <= $th5){
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='5' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    }else{
+                                                        $sql = mysql_query("SELECT * FROM jadwal where id_jadwal='6' ");
+                                                        $ja=mysql_fetch_array($sql);  
+                                                        echo "<option value='$ja[id_jadwal]'>$ja[nama_jadwal]</option>";
+                                                    }
+                                            ?>
+                                            <option>---PILIH JADWAL TES---</option>
+                                            <?php
+                                                    include "../koneksi/koneksi.php";
+                                                    $sql = mysql_query("SELECT * FROM jadwal ORDER BY nama_jadwal ASC");
+                                                    if(mysql_num_rows($sql) != 0){
+                                                        while($row = mysql_fetch_assoc($sql)){
+                                                        echo "<option value='$row[id_jadwal]'>$row[nama_jadwal]</option>";
+                                                        }
+                                                    }
+                                                    ?>
+                                        </select>
+                                    </div>
